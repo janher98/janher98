@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=https:/&type=Date)](https://star-history.com/#https:/&Date)
